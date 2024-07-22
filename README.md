@@ -34,7 +34,7 @@ Carlo Santagiustina
 The OBservatory Integrated Ontology (OBIO) ontology is designed to integrate tweet metadata with various types of linguistic knowledge and Linked Open Data (LOD), such as named entities, dependencies, and frame semantics.
 # DockerFile: 
 # Documentation: 
-[Where to find additional documentation about a software component](https://w3id.org/okg/obio-ontology/)
+https://w3id.org/okg/obio-ontology/
 # Download URL: 
 # DOI: 
 https://doi.org/10.1145/3587259.3627557
